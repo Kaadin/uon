@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q9ftv/+d2kXZQWoiUn2/pIT7AI7Gkse8HoVIyfJVIyC9/XDSpCalizZxiQ5xWJUSLqenhNKkUR5izL/7xriwAQ==",
+  "dgSpecHash": "9nGDdNdUJ/SxUu/5+AJBYWAe4yYdx4SrbSVH1a1UBRKxmYJByeTaRyjV/35uOMdWNrqtX/4OsGJXDC7dI+WJGg==",
   "success": true,
-  "projectFilePath": "/Users/dinarkalimullin/Documents/dev/Uon/uon/uon.csproj",
+  "projectFilePath": "/Users/dinarkalimullin/Documents/PetProjects/uon/Uon/uon/uon.csproj",
   "expectedPackageFiles": [
     "/Users/dinarkalimullin/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/dinarkalimullin/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

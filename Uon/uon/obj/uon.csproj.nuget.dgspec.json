@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dinarkalimullin/Documents/dev/Uon/uon/uon.csproj": {}
+    "/Users/dinarkalimullin/Documents/PetProjects/uon/Uon/uon/uon.csproj": {}
   },
   "projects": {
-    "/Users/dinarkalimullin/Documents/dev/Uon/uon/uon.csproj": {
+    "/Users/dinarkalimullin/Documents/PetProjects/uon/Uon/uon/uon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dinarkalimullin/Documents/dev/Uon/uon/uon.csproj",
+        "projectUniqueName": "/Users/dinarkalimullin/Documents/PetProjects/uon/Uon/uon/uon.csproj",
         "projectName": "uon",
-        "projectPath": "/Users/dinarkalimullin/Documents/dev/Uon/uon/uon.csproj",
+        "projectPath": "/Users/dinarkalimullin/Documents/PetProjects/uon/Uon/uon/uon.csproj",
         "packagesPath": "/Users/dinarkalimullin/.nuget/packages/",
-        "outputPath": "/Users/dinarkalimullin/Documents/dev/Uon/uon/obj/",
+        "outputPath": "/Users/dinarkalimullin/Documents/PetProjects/uon/Uon/uon/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dinarkalimullin/.nuget/NuGet/NuGet.Config"
